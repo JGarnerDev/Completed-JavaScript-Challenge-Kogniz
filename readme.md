@@ -1,4 +1,4 @@
-#Introduction
+# Introduction
 
 Hello, Kogniz engineering!
 
@@ -12,12 +12,12 @@ My thanks and warm regards,
 
 - Jeff
 
-#Notes
+# Notes
 
 Answers to questions 1 - 4 are in the index.js file.
 A supplimentary text document version of answers has been supplied to Andrew Hilson (recruitment) via email for easier reading of verbal explanations.
 
-#Instructions
+# Instructions
 
 > npm install (Jest is the sole development dependancy)
 
